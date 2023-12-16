@@ -1,0 +1,70 @@
+/* your styles will go here!! */
+
+body {
+    background: #1d2555;
+    background: url(darkblue.webp);
+    }
+    
+    header {
+     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+    }
+    
+    nav a{
+        color: #ffffff;
+        text-decoration: none;
+        font-size: 22px;
+        font-family: Spectral;
+        margin: 10px;
+        padding: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
+        }
+
+        nav a:hover, nav a:focus {
+            background: #12183e;
+            border-color: #ffffff;
+            flex-direction: row;
+        }
+
+    img {
+        max-width: 100%;
+    }
+    
+    #logo img{
+    width: 80px;
+    margin: 20px;
+    }
+    
+    .home main {
+        margin: 50px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .home img {
+        max-width: 1000px;
+        width: 100%;
+    }
+    
+    h1 {
+    color: #ffffff;
+    background: #12183e;
+    text-align: center;
+    font-family: Spectral;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    }
+
+
+    .populardestinations nav a. :nth-child(1)
+
+    .experiences nav a. :nth-child(2)
+
+    .food nav a. :nth-child(3)
+
