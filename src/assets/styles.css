@@ -2,7 +2,7 @@
 
 body {
     background: #1d2555;
-    background: url(darkblue.webp);
+    background: url(circle-blues.png);
     }
     
     header {
@@ -24,7 +24,7 @@ body {
         }
 
         nav a:hover, nav a:focus {
-            background: #12183e;
+            background: #2d3fb3;
             border-color: #ffffff;
             flex-direction: row;
         }
@@ -88,8 +88,7 @@ main img, main p {
     }
     
     h1 {
-    color: #ffffff;
-    background: #12183e;
+    color: hsl(0, 0%, 100%);
     text-align: center;
     font-family: 'Laila', serif;
     font-size: 70px;
@@ -100,7 +99,6 @@ main img, main p {
 
     h2 {
         color: #ffffff;
-        background: #12183e;
     text-align: center;
     font-family: 'Laila', serif;
     font-size: 50px;
